@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-👨‍💻Junior Full Stack (Java) Developer<br>🌱 I’m currently learning Java
+👨‍💻Junior Software (Java) Developer<br>🌱 I’m currently learning Java
 
 
 ## 🌐 Socials:
